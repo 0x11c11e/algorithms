@@ -16,8 +16,8 @@ Algorithm and Data Structure
 
 ### Note
 
-**Iterating through half a collection is still O(n)**
-**Two separate collections: O(a * b)**
+* **Iterating through half a collection is still O(n)**
+* **Two separate collections: O(a * b)**
 
 ## What can cause time in a function?
 
