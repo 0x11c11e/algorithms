@@ -2,6 +2,35 @@
 
 Algorithm and Data Structure
 
+# Algorithm Design Paradigm
+
+A generic model or framework which underlies the design of a class of algorithms.
+
+### List of well-known paradigms
+
+#### Divide and Conquer
+
+An algorithm recursively breaks down a problem into two or more sub-problems of the same or related type, until these become simple enough to be solved directly.
+
+##### Problems
+* Celebrity Problem
+
+##### Algorithms
+* Merge Sort
+* Quick Sort
+
+
+#### Backtracking
+
+#### Branch and bound
+
+#### Brute-force search
+
+* Consists of systematically enumerating all possible candidates for the solution and checking whether each candidate satisfies the problem's statement.
+* Dynamic programming
+* Greedy algorithm
+* Prune and search
+
 # Big O Cheat Sheet:
 
 ## Big Os
@@ -36,6 +65,7 @@ Algorithm and Data Structure
 * Rule 4: Drop Non-dominant terms
 
 ## What causes Space complexity?
+
 * Variables
 * Data Structures
 * Function Call
