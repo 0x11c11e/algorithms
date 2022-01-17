@@ -13,12 +13,15 @@ A generic model or framework which underlies the design of a class of algorithms
 An algorithm recursively breaks down a problem into two or more sub-problems of the same or related type, until these become simple enough to be solved directly.
 
 ##### Problems
+
 * Celebrity Problem
 
 ##### Algorithms
+
 * Merge Sort
 * Quick Sort
-
+* Quick Select
+* Integer Multiplication
 
 #### Backtracking
 
@@ -59,7 +62,7 @@ An algorithm recursively breaks down a problem into two or more sub-problems of 
 
 * Rule 1: Always worst Case
 * Rule 2: Remove Constants
-* Rule 3: Different inputs should have different variables. O(a+b). A and B arrays nested would be O(a*b)
+* Rule 3: Different inputs should have different variables. O (a+b). A and B arrays nested would be O(a*b)
   * for steps in order
   * for nested steps
 * Rule 4: Drop Non-dominant terms
